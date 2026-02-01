@@ -1,8 +1,8 @@
 # Java Paint Application 🎨 
-our team members 
-jana ahmed elsayed 
-weam ezz 
-shreen ahmed
+-our team members 
+-jana ahmed elsayed 
+-weam ezz 
+-shreen ahmed 
 
 A cross-platform desktop drawing application built using **Java Swing** and **AWT**. This project provides a user-friendly interface for creating, editing, and saving digital sketches with various tools and customization options.
 
